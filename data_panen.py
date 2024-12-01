@@ -75,4 +75,4 @@ for lokasi, hasil in data_panen.items():
 =======
 
 print("Sudah di branch baru")
->>>>>>> Baru
+>>>>>>> 
