@@ -71,3 +71,8 @@ for lokasi, hasil in data_panen.items():
         print(f"{lokasi} memerlukan perhatian khusus.")
     else:
         print(f"{lokasi} dalam kondisi baik.")
+<<<<<<< HEAD
+=======
+
+print("Sudah di branch baru")
+>>>>>>> Baru
